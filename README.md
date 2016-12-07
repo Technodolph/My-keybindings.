@@ -51,7 +51,6 @@ Shift+Mouse Button 5
 Mouse Wheel Up
 Mouse Wheel Down
 
-The end.
 
 
 
